@@ -39,3 +39,4 @@
 {"time": "2026-11-17T03:33:30.988493+00:00", "level": "INFO", "logger": "delivery", "message": "prediction served", "request_id": "439c9e48", "distance_km": 2.49, "traffic_level": 2, "predicted_min": 26.9, "duration_ms": 246.28}
 {"time": "2026-11-17T03:33:30.989665+00:00", "level": "INFO", "logger": "delivery", "message": "prediction served", "request_id": "0bd8fb8d", "distance_km": 2.28, "traffic_level": 3, "predicted_min": 40.1, "duration_ms": 0.76}
 {"time": "2026-11-17T03:33:30.990741+00:00", "level": "INFO", "logger": "delivery", "message": "prediction served", "request_id": "d8e6ae80", "distance_km": 5.03, "traffic_level": 2, "predicted_min": 47.7, "duration_ms": 247.28}
+{"time": "2026-11-17T03:33:44.386672+00:00", "level": "INFO", "logger": "delivery", "message": "order received", "customer_ref": "7619ee8cea49", "distance_km": 5.0, "traffic_level": 2}
